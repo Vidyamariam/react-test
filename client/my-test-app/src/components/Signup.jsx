@@ -50,7 +50,7 @@ function Signup() {
           placeholder="enter your name"
           onChange={handleChange}
         />
-        <label>Name</label>
+        <label>Email</label>
         <input
           type="email"
           name="email"
