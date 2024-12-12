@@ -1,0 +1,29 @@
+.form-container{
+
+
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   max-width: 500rem;
+   padding: 15px;
+}
+
+.title{
+  text-align: center;
+}
+
+.form{
+  display: flex;
+  flex-direction: column;
+}
+
+.form > label{
+  font-size: large;
+}
+
+.form .forminput{
+  padding: 5px;
+  width: 300px;
+  
+}
+
